@@ -18,6 +18,10 @@ sidebar: auto
 
 - [apiup](https://github.com/codingitwrong/apiup) - Rails project template to create an API pre-configured for JSON:API and OAuth 2 authentication
 
+## Sample APIs
+
+- [Sandbox API](https://sandboxapi.reststate.org/)—a JSON:API compliant web service with OAuth2 authentication. Try the app hosted or download it locally.
+
 ## Resources
 * [Easy Backend APIs with Rails](https://thefrontier.bignerdranch.com/skill-packs/easy-backend-api-with-rails) (video) — a walkthrough of creating a JSON web service from scratch. Paid site with a free trial.
 * Books
