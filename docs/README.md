@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # RailsAPI.dev
 
 ## Why Use Rails for JSON APIs?
