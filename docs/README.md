@@ -53,7 +53,8 @@ The following pages in the Guides are relevant to API development:
 * [Active Model Serializers](https://github.com/rails-api/active_model_serializers)—centralizes your logic to serialize models to JSON
 * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)—authenticate users with the OAuth2 standard
 * [Pundit](https://github.com/varvet/pundit)—authorize users' access to read and write records
-* [JSONAPI::Resources](http://jsonapi-resources.com/)—helps creating an API following the JSON:API spec
+* [JSONAPI::Resources](http://jsonapi-resources.com/)—helps creating an API following the JSON:API spec. Maintained by the creators of JSON:API.
+* [jsonapi-rails](http://jsonapi-rb.org/)—alternate JSON:API gem
 * [GraphQL](https://graphql-ruby.org/)—gem for creating GraphQL APIs
 
 ## Deployment
