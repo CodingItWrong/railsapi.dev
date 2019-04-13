@@ -26,7 +26,7 @@ sidebar: auto
 * [Rails: The Easiest Way to Create a Web Service](https://codingitwrong.com/2018/07/02/rails-the-easiest-way-to-create-a-web-service.html)—two-part blog series
 * [Easy Backend APIs with Rails](https://thefrontier.bignerdranch.com/skill-packs/easy-backend-api-with-rails) (video) — a walkthrough of creating a JSON web service from scratch. Paid site with a free trial.
 * Books
-  * [Build APIs You Won’t Hate](https://leanpub.com/build-apis-you-wont-hate)—guidelines on API design practices
+  * [_Build APIs You Won’t Hate_](https://leanpub.com/build-apis-you-wont-hate)—guidelines on API design practices
   * _Programming Ruby_, aka "The Pickaxe Book"—a popular introduction to the Ruby language
   	* [Buy ebook or physical book](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
   	* [Read free online, older version](http://ruby-doc.com/docs/ProgrammingRuby/)
