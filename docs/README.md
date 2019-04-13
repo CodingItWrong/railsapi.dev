@@ -23,6 +23,7 @@ sidebar: auto
 - [Sandbox API](https://sandboxapi.reststate.org/)—a JSON:API compliant web service with OAuth2 authentication. Try the app hosted or download it locally.
 
 ## Resources
+* [Rails: The Easiest Way to Create a Web Service](https://codingitwrong.com/2018/07/02/rails-the-easiest-way-to-create-a-web-service.html)—two-part blog series
 * [Easy Backend APIs with Rails](https://thefrontier.bignerdranch.com/skill-packs/easy-backend-api-with-rails) (video) — a walkthrough of creating a JSON web service from scratch. Paid site with a free trial.
 * Books
   * [Build APIs You Won’t Hate](https://leanpub.com/build-apis-you-wont-hate)—guidelines on API design practices
