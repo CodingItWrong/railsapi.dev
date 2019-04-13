@@ -63,7 +63,7 @@ The following pages in the Guides are relevant to API development:
 * [GraphQL](https://graphql-ruby.org/)—gem for creating GraphQL APIs
 
 ## Deployment
-* [Heroku](https://www.heroku.com/)—"platform as a service" with great Rails support
+* [Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction)—"platform as a service" with great Rails support
 * [Docker](https://www.docker.com/)—deploy apps in containers to isolate them
 	* [_Docker for Rails Developers_](https://pragprog.com/book/ridocker/docker-for-rails-developers) book
 * [Capistrano](https://capistranorb.com/)—automate deploying Rails to servers
