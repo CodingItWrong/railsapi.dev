@@ -65,7 +65,8 @@ The following pages in the Guides are relevant to API development:
 ## Deployment
 * [Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction)—"platform as a service" with great Rails support
 * [Docker](https://www.docker.com/)—deploy apps in containers to isolate them
-	* [_Docker for Rails Developers_](https://pragprog.com/book/ridocker/docker-for-rails-developers) book
+  * [Quickstart: Docker Compose and Rails](https://docs.docker.com/compose/rails/)
+  * [_Docker for Rails Developers_](https://pragprog.com/book/ridocker/docker-for-rails-developers) book
 * [Capistrano](https://capistranorb.com/)—automate deploying Rails to servers
 * [Digital Ocean](https://www.digitalocean.com/)—easy cloud server platform
 
