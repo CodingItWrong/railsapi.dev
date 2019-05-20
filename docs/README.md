@@ -36,7 +36,8 @@ sidebar: auto
 	* [Authorizing JSON:API Resources, part 1: Visibility](https://www.bignerdranch.com/blog/authorizing-jsonapi-resources-part-1-visibility/)
 	* [Authorizing JSON:API Resources, part 2: Policies](https://www.bignerdranch.com/blog/authorizing-jsonapi-resources-part-2-policies/)
   * [Cookie-Based Token Storage with Doorkeeper](https://codingitwrong.com/2018/11/02/cookie-based-token-storage-with-doorkeeper.html)
-
+* Talks
+  * [In Relentless Pursuit of REST](https://www.youtube.com/watch?v=HctYHe-YjnE) - RailsConf 2017 talk by Derek Prior showing how the constaints of REST help lead to simpler code and a better domain model
 
 ## Rails Guides
 
