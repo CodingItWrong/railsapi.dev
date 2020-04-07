@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'RailsAPI.dev',
+  title: 'Rails APIs',
   description: 'Resources for building APIs with Ruby on Rails',
   plugins: [
     ['@vuepress/google-analytics', {
