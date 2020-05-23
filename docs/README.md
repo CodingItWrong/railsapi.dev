@@ -48,7 +48,7 @@ The following pages in the Guides are relevant to API development:
 * [Routing](https://guides.rubyonrails.org/routing.html)—especially check out the "Resource Routing" section
 * [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
 * [Command Line](https://guides.rubyonrails.org/command_line.html)
-* [API-Only Applications](https://guides.rubyonrails.org/api_app.html)—how to disable Rails server-tendered mode to simplify your API app
+* [API-Only Applications](https://guides.rubyonrails.org/api_app.html)—how to disable Rails server-rendered mode to simplify your API app
 * Supplemental APIs
 	* [Action Mailer](https://guides.rubyonrails.org/action_mailer_basics.html)—sending email
 	* [Active Job](https://guides.rubyonrails.org/active_job_basics.html)—background workers
