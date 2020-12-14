@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.7.1",
-    "js-yaml": "^3.14.0",
+    "js-yaml": "^3.14.1",
     "vuepress": "^1.7.1"
   }
 }
