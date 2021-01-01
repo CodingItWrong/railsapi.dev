@@ -20,7 +20,7 @@ sidebar: auto
 
 ## Sample APIs
 
-- [How to JSON:API Sandbox](https://sandbox.howtojsonapi.com/)—a JSON:API compliant web service with OAuth2 authentication. Try the app hosted or download it locally.
+- [How to JSON:API Sandbox](https://jsonapi-sandbox.herokuapp.com/)—a JSON:API compliant web service with OAuth2 authentication. Try the app hosted or download it locally.
 
 ## Resources
 * [Rails: The Easiest Way to Create a Web Service](https://codingitwrong.com/2018/07/02/rails-the-easiest-way-to-create-a-web-service.html)—two-part blog series
